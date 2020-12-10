@@ -1,5 +1,4 @@
 # VaccNow
-
 Please change the Application Properties: 
 1.change User Name to use the email service.
 spring.mail.username=
